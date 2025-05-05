@@ -1,0 +1,34 @@
+{
+  "nom": "Elena Martinez",
+  "age": 42,
+  "profession": "Boutique Owner",
+  "situation_familiale": "Married with two children",
+  "revenu": "Middle income",
+  "logement": "Two-story house in the suburban area",
+  "vulnerabilites": [
+    "Located in flood-prone downtown area",
+    "Dependence on local foot traffic which decreases during extreme weather events"
+  ],
+  "impacts_actuels": [
+    "Increase in local flooding has sporadically limited customer access to the shop",
+    "Higher temperatures affecting the comfort of shopping environment during summer"
+  ],
+  "impacts_projetes": [
+    "Projected increase in frequency and severity of flooding",
+    "Anticipated longer and more intense heatwaves affecting business operations"
+  ],
+  "capacite_adaptation": "Moderate, with some financial flexibility to invest in adaptations but limited by overall business income",
+  "obstacles": [
+    "Financial constraints to implement high-cost adaptations",
+    "Limited space for implementing large-scale structural changes"
+  ],
+  "options_adaptation": [
+    "Installing flood barriers and water-resistant infrastructure",
+    "Investing in energy-efficient air conditioning to cope with higher temperatures",
+    "Developing an online sales platform to maintain sales during extreme weather events"
+  ],
+  "citations": [
+    "Every time there's a flood warning, I worry not just about the shop, but how it affects our family's livelihood.",
+    "I know I need to adapt, but it's tough finding the money and the right solutions that will make a real difference."
+  ]
+}

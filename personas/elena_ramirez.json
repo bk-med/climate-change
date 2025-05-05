@@ -1,0 +1,39 @@
+{
+  "nom": "Elena Ramirez",
+  "age": 42,
+  "profession": "Owner of a local boutique",
+  "situation_familiale": "Married with two children",
+  "revenu": "Upper middle class",
+  "logement": "Two-story house in an urban area",
+  "vulnerabilites": [
+    "Business location prone to flooding",
+    "Dependence on local customer base",
+    "High operational costs during extreme weather events"
+  ],
+  "impacts_actuels": [
+    "Increased flooding disrupting business operations",
+    "Heatwaves reducing customer foot traffic",
+    "Higher utility bills during extreme weather"
+  ],
+  "impacts_projetes": [
+    "More intense and frequent flooding",
+    "Extended periods of extreme heat affecting customer behavior",
+    "Potential structural damage to business premises from severe storms"
+  ],
+  "capacite_adaptation": "Moderate, with some financial flexibility to invest in adaptations",
+  "obstacles": [
+    "Limited knowledge of climate adaptation strategies for businesses",
+    "Financial constraints in implementing high-cost adaptations",
+    "Disruption of business during implementation of adaptations"
+  ],
+  "options_adaptation": [
+    "Elevating building structure to prevent flood damage",
+    "Installing high-efficiency air conditioning systems",
+    "Developing an online shopping platform to maintain sales during adverse weather"
+  ],
+  "citations": [
+    "I worry about how the next big storm might affect our storefront and our ability to serve our community.",
+    "It's daunting to think about the investments we need to make to keep the business afloat with these changing climates.",
+    "How can I ensure my business thrives while also protecting it from these increasingly unpredictable weather patterns?"
+  ]
+}

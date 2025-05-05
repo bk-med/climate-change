@@ -1,0 +1,232 @@
+{
+  "date_creation": "2025-05-05T09:46:50.360144",
+  "nombre_personas": 6,
+  "personas": [
+    {
+      "nom": "Elena Martinez",
+      "age": 42,
+      "profession": "Community Health Worker",
+      "situation_familiale": "Single mother of two",
+      "revenu": "Low income",
+      "logement": "Rented house",
+      "vulnerabilites": [
+        "Residence in high flood risk area",
+        "Limited financial resources",
+        "Lack of access to adaptive infrastructure"
+      ],
+      "impacts_actuels": [
+        "Frequent home flooding during heavy rains",
+        "Health issues from mold and dampness",
+        "Disruption of daily life and children's education"
+      ],
+      "impacts_projetes": [
+        "Increased frequency and severity of flooding",
+        "Higher risks of waterborne diseases",
+        "Potential displacement due to uninhabitable living conditions"
+      ],
+      "capacite_adaptation": "Moderate, with community support but limited by financial constraints",
+      "obstacles": [
+        "Financial limitations",
+        "Lack of information on effective adaptation strategies",
+        "Insufficient local government support for flood management"
+      ],
+      "options_adaptation": [
+        "Elevating home structure",
+        "Participating in community flood preparedness programs",
+        "Applying for government grants for flood resilience"
+      ],
+      "citations": [
+        "Every year it seems the water gets closer to our door. What will happen when we can no longer stay here?",
+        "I worry about my children's health all the time. The dampness never really leaves our home.",
+        "I want to prepare better, but where do I start without the money or the right information?"
+      ]
+    },
+    {
+      "nom": "Elena Martinez",
+      "age": 22,
+      "profession": "Student",
+      "situation_familiale": "Single, living with a roommate",
+      "revenu": "Low, dependent on part-time job and student loans",
+      "logement": "Apartment in a high-density urban area",
+      "vulnerabilites": [
+        "Lives in a flood-prone area",
+        "Limited financial resources",
+        "Dependent on public transportation"
+      ],
+      "impacts_actuels": [
+        "Increased heatwaves leading to discomfort and health risks",
+        "Urban flooding affecting commute and property"
+      ],
+      "impacts_projetes": [
+        "More intense and frequent heatwaves",
+        "Higher risk of flooding from rising sea levels and heavy rains"
+      ],
+      "capacite_adaptation": "Moderate, resourceful but financially restricted",
+      "obstacles": [
+        "Financial constraints",
+        "Lack of information on how to prepare for climate impacts",
+        "Limited influence on infrastructure decisions"
+      ],
+      "options_adaptation": [
+        "Participating in local climate resilience workshops",
+        "Utilizing community resources for emergency preparedness",
+        "Advocating for better urban planning and green infrastructure"
+      ],
+      "citations": [
+        "I worry about how we're going to cope with all these floods every year.",
+        "It gets so hot sometimes that I can't even focus on my studies."
+      ]
+    },
+    {
+      "nom": "John Carter",
+      "age": 54,
+      "profession": "Owner of a local farm supply store",
+      "situation_familiale": "Married, two children",
+      "revenu": "Moderate",
+      "logement": "Single-family home",
+      "vulnerabilites": [
+        "Dependence on local agricultural success",
+        "Limited access to advanced technology",
+        "Lack of immediate healthcare facilities"
+      ],
+      "impacts_actuels": [
+        "Reduced crop yields affecting business revenue",
+        "Increase in local temperatures affecting work conditions",
+        "More frequent droughts increasing demand for irrigation supplies"
+      ],
+      "impacts_projetes": [
+        "Continued decrease in local water availability",
+        "Rising temperatures may lead to less outdoor work capability",
+        "Potential increase in pest invasions"
+      ],
+      "capacite_adaptation": "Moderate, with some financial and community resources available",
+      "obstacles": [
+        "Financial constraints to implement high-cost solutions",
+        "Resistance to change among local farming community",
+        "Limited access to current climate adaptation information"
+      ],
+      "options_adaptation": [
+        "Investing in drought-resistant product lines",
+        "Hosting educational workshops on sustainable farming practices",
+        "Collaborating with tech companies for affordable climate-resilient solutions"
+      ],
+      "citations": [
+        "We've seen a real change in how we have to plan for the future; it's not just about making a profit anymore, but surviving.",
+        "I worry about how we can keep up when everything around us is changing so fast.",
+        "We need to adapt, but it's hard when you feel like you're doing it alone."
+      ]
+    },
+    {
+      "nom": "Eduardo Morales",
+      "age": 47,
+      "profession": "Agricultural Worker",
+      "situation_familiale": "Married with two children",
+      "revenu": "Low",
+      "logement": "Small family-owned farmhouse",
+      "vulnerabilites": [
+        "Dependence on local water sources",
+        "Limited access to technology",
+        "Lack of alternative income sources"
+      ],
+      "impacts_actuels": [
+        "Decreased crop yields due to irregular rainfall",
+        "Increased pests and diseases",
+        "Water scarcity during dry seasons"
+      ],
+      "impacts_projetes": [
+        "Further reduction in water availability",
+        "Higher temperatures leading to increased crop stress",
+        "Change in growing seasons"
+      ],
+      "capacite_adaptation": "Moderate, with strong community ties but limited resources",
+      "obstacles": [
+        "Financial constraints",
+        "Limited access to modern farming equipment",
+        "Lack of training on climate resilient farming techniques"
+      ],
+      "options_adaptation": [
+        "Implementing water-saving irrigation techniques",
+        "Diversifying crops to include more drought-resistant varieties",
+        "Joining cooperative societies for better access to resources and information"
+      ],
+      "citations": [
+        "We try to save every drop of rain that falls, because we don't know when it will come again.",
+        "It's tough to watch your crops fail and not know what to do. We need more support to adapt.",
+        "Every year it's getting hotter, and the water is disappearing. We have to find new ways to survive."
+      ]
+    },
+    {
+      "nom": "Elena Martinez",
+      "age": 42,
+      "profession": "Boutique Owner",
+      "situation_familiale": "Married with two children",
+      "revenu": "Middle income",
+      "logement": "Two-story house in the suburban area",
+      "vulnerabilites": [
+        "Located in flood-prone downtown area",
+        "Dependence on local foot traffic which decreases during extreme weather events"
+      ],
+      "impacts_actuels": [
+        "Increase in local flooding has sporadically limited customer access to the shop",
+        "Higher temperatures affecting the comfort of shopping environment during summer"
+      ],
+      "impacts_projetes": [
+        "Projected increase in frequency and severity of flooding",
+        "Anticipated longer and more intense heatwaves affecting business operations"
+      ],
+      "capacite_adaptation": "Moderate, with some financial flexibility to invest in adaptations but limited by overall business income",
+      "obstacles": [
+        "Financial constraints to implement high-cost adaptations",
+        "Limited space for implementing large-scale structural changes"
+      ],
+      "options_adaptation": [
+        "Installing flood barriers and water-resistant infrastructure",
+        "Investing in energy-efficient air conditioning to cope with higher temperatures",
+        "Developing an online sales platform to maintain sales during extreme weather events"
+      ],
+      "citations": [
+        "Every time there's a flood warning, I worry not just about the shop, but how it affects our family's livelihood.",
+        "I know I need to adapt, but it's tough finding the money and the right solutions that will make a real difference."
+      ]
+    },
+    {
+      "nom": "Elena Ramirez",
+      "age": 42,
+      "profession": "Owner of a local boutique",
+      "situation_familiale": "Married with two children",
+      "revenu": "Upper middle class",
+      "logement": "Two-story house in an urban area",
+      "vulnerabilites": [
+        "Business location prone to flooding",
+        "Dependence on local customer base",
+        "High operational costs during extreme weather events"
+      ],
+      "impacts_actuels": [
+        "Increased flooding disrupting business operations",
+        "Heatwaves reducing customer foot traffic",
+        "Higher utility bills during extreme weather"
+      ],
+      "impacts_projetes": [
+        "More intense and frequent flooding",
+        "Extended periods of extreme heat affecting customer behavior",
+        "Potential structural damage to business premises from severe storms"
+      ],
+      "capacite_adaptation": "Moderate, with some financial flexibility to invest in adaptations",
+      "obstacles": [
+        "Limited knowledge of climate adaptation strategies for businesses",
+        "Financial constraints in implementing high-cost adaptations",
+        "Disruption of business during implementation of adaptations"
+      ],
+      "options_adaptation": [
+        "Elevating building structure to prevent flood damage",
+        "Installing high-efficiency air conditioning systems",
+        "Developing an online shopping platform to maintain sales during adverse weather"
+      ],
+      "citations": [
+        "I worry about how the next big storm might affect our storefront and our ability to serve our community.",
+        "It's daunting to think about the investments we need to make to keep the business afloat with these changing climates.",
+        "How can I ensure my business thrives while also protecting it from these increasingly unpredictable weather patterns?"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "nom": "John Carter",
+  "age": 54,
+  "profession": "Owner of a local farm supply store",
+  "situation_familiale": "Married, two children",
+  "revenu": "Moderate",
+  "logement": "Single-family home",
+  "vulnerabilites": [
+    "Dependence on local agricultural success",
+    "Limited access to advanced technology",
+    "Lack of immediate healthcare facilities"
+  ],
+  "impacts_actuels": [
+    "Reduced crop yields affecting business revenue",
+    "Increase in local temperatures affecting work conditions",
+    "More frequent droughts increasing demand for irrigation supplies"
+  ],
+  "impacts_projetes": [
+    "Continued decrease in local water availability",
+    "Rising temperatures may lead to less outdoor work capability",
+    "Potential increase in pest invasions"
+  ],
+  "capacite_adaptation": "Moderate, with some financial and community resources available",
+  "obstacles": [
+    "Financial constraints to implement high-cost solutions",
+    "Resistance to change among local farming community",
+    "Limited access to current climate adaptation information"
+  ],
+  "options_adaptation": [
+    "Investing in drought-resistant product lines",
+    "Hosting educational workshops on sustainable farming practices",
+    "Collaborating with tech companies for affordable climate-resilient solutions"
+  ],
+  "citations": [
+    "We've seen a real change in how we have to plan for the future; it's not just about making a profit anymore, but surviving.",
+    "I worry about how we can keep up when everything around us is changing so fast.",
+    "We need to adapt, but it's hard when you feel like you're doing it alone."
+  ]
+}

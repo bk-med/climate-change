@@ -1,0 +1,39 @@
+{
+  "nom": "Eduardo Morales",
+  "age": 47,
+  "profession": "Agricultural Worker",
+  "situation_familiale": "Married with two children",
+  "revenu": "Low",
+  "logement": "Small family-owned farmhouse",
+  "vulnerabilites": [
+    "Dependence on local water sources",
+    "Limited access to technology",
+    "Lack of alternative income sources"
+  ],
+  "impacts_actuels": [
+    "Decreased crop yields due to irregular rainfall",
+    "Increased pests and diseases",
+    "Water scarcity during dry seasons"
+  ],
+  "impacts_projetes": [
+    "Further reduction in water availability",
+    "Higher temperatures leading to increased crop stress",
+    "Change in growing seasons"
+  ],
+  "capacite_adaptation": "Moderate, with strong community ties but limited resources",
+  "obstacles": [
+    "Financial constraints",
+    "Limited access to modern farming equipment",
+    "Lack of training on climate resilient farming techniques"
+  ],
+  "options_adaptation": [
+    "Implementing water-saving irrigation techniques",
+    "Diversifying crops to include more drought-resistant varieties",
+    "Joining cooperative societies for better access to resources and information"
+  ],
+  "citations": [
+    "We try to save every drop of rain that falls, because we don't know when it will come again.",
+    "It's tough to watch your crops fail and not know what to do. We need more support to adapt.",
+    "Every year it's getting hotter, and the water is disappearing. We have to find new ways to survive."
+  ]
+}

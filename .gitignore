@@ -1,0 +1,33 @@
+# Python virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch specific
+**/torch/lib/libtorch_cpu.dylib
+**/torch/lib/libtorch_cuda.dylib
+**/torch/lib/libtorch_*.dylib
+**/torch/lib/*.dylib
+**/torch/lib/*.so
+**/torch/lib/*.dll 
